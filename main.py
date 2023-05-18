@@ -1,1 +1,1 @@
-print('Python3.10')
+print('Python3.10.2')
