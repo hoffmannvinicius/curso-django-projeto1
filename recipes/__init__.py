@@ -1,0 +1,1 @@
+# __init.py__ Indica para o python que isso aqui é um pacote
